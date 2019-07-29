@@ -1,0 +1,2 @@
+# Datascience-Relation-between-weather-and-accidents-in-Ottawa
+This is a project that I did that illustrates the relation between the weather in Ottawa and the number of accidents. I took into consideration the weather in Ottawa, the various locations, the events that occur throughout the year as well as the time from 2013 all the way to 2017. I had to clean up over 50 million rows of data, which I later uploaded to my local database, which I then connected to Tableau. In order to make the data more understandable and client friendly. 
